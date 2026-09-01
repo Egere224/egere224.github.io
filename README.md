@@ -2,7 +2,7 @@
 
 Personal portfolio built with Next.js to showcase my work as a full-stack developer, including live projects, services offered, professional experience, and contact information.
 
-**Live site:** [egereofejiro.github.io](https://egereofejiro.github.io) <!-- update if deployed elsewhere -->
+**Live site:** [https://ofejiroportfolio.vercel.app/](https://ofejiroportfolio.vercel.app/)
 
 ## Overview
 

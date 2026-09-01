@@ -55,7 +55,7 @@ const projects = [
     image: "/portfolioS.png",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "React"],
     github: "https://github.com/egere224",
-    live: "https://egereo224.github.io",
+    live: "https://ofejiroportfolio.vercel.app/",
   },
 ];
 
